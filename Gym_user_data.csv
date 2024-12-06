@@ -1,0 +1,30 @@
+user_id,first_name,last_name,age,gender,birth,sign_up_date,user_location,subscription_plan
+user_1,Chris,Wilson,56,Female,29-02-2000,06-02-2023,Denver,Basic
+user_2,Michael,Miller,46,Non-binary,22-12-1978,08-08-2023,Orlando,Pro
+user_3,Daniel,Smith,32,Female,30-08-1962,11-01-2021,Orlando,Basic
+user_4,David,Smith,60,Male,05-12-2003,07-08-2023,Denver,Pro
+user_5,Chris,Jones,25,Female,25-08-2004,08-01-2021,Denver,Basic
+user_6,Jessica,Rodriguez,38,Male,11-09-1969,13-02-2022,Austin,Student
+user_7,Linda,Jones,56,Male,09-07-1982,25-07-2023,Seattle,Student
+user_8,Jane,Brown,36,Female,17-05-1989,01-02-2021,Atlanta,Pro
+user_9,Robert,Davis,40,Non-binary,10-04-1976,11-09-2023,Orlando,Student
+user_10,John,Jones,28,Non-binary,30-10-2005,24-06-2022,Detroit,Basic
+user_11,Chris,Smith,28,Male,29-11-1972,19-12-2022,Denver,Pro
+user_12,Sarah,Martinez,41,Female,18-05-1963,02-10-2023,Miami,Student
+user_13,Sarah,Wilson,53,Male,26-04-1985,22-01-2022,San Francisco,Student
+user_14,Jane,Brown,57,Non-binary,28-08-1986,16-08-2021,Boston,Pro
+user_15,Michael,Miller,41,Non-binary,05-03-1972,02-10-2022,Las Vegas,Student
+user_16,Emily,Jones,20,Female,22-07-1988,06-02-2023,Detroit,Student
+user_17,Michael,Garcia,39,Female,09-07-1970,20-04-2022,San Francisco,Pro
+user_18,Jane,Martinez,19,Female,27-08-1978,25-12-2022,Seattle,Student
+user_19,Michael,Wilson,41,Female,22-05-1982,21-01-2023,San Francisco,Student
+user_20,Sarah,Johnson,61,Male,10-07-2003,26-07-2021,Miami,Student
+user_21,Daniel,Smith,47,Female,29-10-1975,14-11-2021,Seattle,Student
+user_22,Emily,Moore,55,Female,24-02-2005,06-03-2023,Atlanta,Pro
+user_23,Sarah,Williams,19,Female,06-02-1967,27-01-2023,Austin,Basic
+user_24,John,Miller,38,Male,11-02-1984,11-07-2022,Orlando,Basic
+user_25,Linda,Moore,50,Non-binary,24-01-1987,09-09-2022,San Francisco,Student
+user_26,Sarah,Smith,29,Male,03-12-1961,14-12-2021,Miami,Student
+user_27,Linda,Brown,39,Female,17-12-1978,04-03-2023,Austin,Basic
+user_28,Michael,Garcia,61,Female,31-01-1981,22-08-2021,Miami,Student
+user_29,Daniel,Jones,42,Female,22-10-1980,02-12-2022,Las Vegas,Basic

@@ -1,0 +1,26 @@
+create database gym;
+use gym;
+
+select * from gym_check_in;
+select * from gym_user_data;
+
+-- join the first name and last name with check in time and check out time 
+select a.first_name,a.last_name,c.checkin_time,c.checkout_time
+from gym_user_data a join gym_check_in c on a.user_id=c.user_id;
+
+-- Show the female customer and their subscription plan 
+select gender,subscription_plan
+from gym_user_data
+where gender= "female";
+-- show the workout type and the client's first name 
+select b.workout_type,a.first_name
+from gym_user_data a inner join gym_check_in b on a.user_id=b.user_id;
+-- show the total calorie burned 
+select calories_burned
+from gym_check_in;
+-- Show the user_location and sign up date 
+select user_location,sign_up_date
+from gym_user_data;
+-- if the age is more than 30 then check the total calorie burnt 
+select if(age > 30, b.calories_burned,"None") as calorie
+from gym_user_data a inner join gym_check_in b on a.user_id=b.user_id;
